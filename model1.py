@@ -3,6 +3,15 @@ import time
 from pymongo import MongoClient
 from faker import Faker
 
+# This Python script demonstrates data generation and querying using MongoDB.
+# The script defines "Model1" class to interact with a MongoDB database,
+# generating random data for people and companies and executing predefined queries.
+
+# The database consists of 'person' and 'company' collections with the people and 
+# the companies are separated in two collections following normalization techniques.
+
+# Queries include aggregations and updates, measuring execution times for benchmarking.
+# Adjust the parameters in `data_generator` for desired data volume.
 
 class Model1:
     def data_generator(self, n_people, n_companies):
@@ -150,8 +159,7 @@ class Model1:
 
         client.close()
 
-
-# Example usage
+# Main:
 if __name__ == "__main__":
     model1 = Model1()
     model1.data_generator(n_people=50000,
