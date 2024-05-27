@@ -1,0 +1,238 @@
+ID,conference,edition
+1,Data Visualization Conference,1
+2,Data Visualization Conference,2
+3,Data Visualization Conference,3
+4,Data Visualization Conference,4
+5,Data Visualization Conference,5
+6,Data Visualization Conference,6
+7,Data Visualization Conference,7
+8,Data Visualization Conference,8
+9,Data Visualization Conference,9
+10,Data Visualization Conference,10
+11,Data Lake Symposium,1
+12,Data Lake Symposium,2
+13,Data Lake Symposium,3
+14,Data Lake Symposium,4
+15,Data Lake Symposium,5
+16,Data Lake Symposium,6
+17,Data Lake Symposium,7
+18,Data Lake Symposium,8
+19,Big Data Strategy Conference,1
+20,Big Data Strategy Conference,2
+21,Big Data Strategy Conference,3
+22,Big Data Strategy Conference,4
+23,Big Data Strategy Conference,5
+24,Database Management Workshop,1
+25,Database Management Workshop,2
+26,Database Management Workshop,3
+27,Database Management Workshop,4
+28,Database Management Workshop,5
+29,Database Management Workshop,6
+30,Database Management Workshop,7
+31,Database Management Workshop,8
+32,Knowledge Congress,1
+33,Knowledge Congress,2
+34,Knowledge Congress,3
+35,Knowledge Congress,4
+36,Knowledge Congress,5
+37,Data Engineering Conference,1
+38,Data Engineering Conference,2
+39,Data Engineering Conference,3
+40,Data Engineering Conference,4
+41,Data Engineering Conference,5
+42,Data Engineering Conference,6
+43,Data Engineering Conference,7
+44,Data Engineering Conference,8
+45,Data Engineering Conference,9
+46,Information Symposium,1
+47,Information Symposium,2
+48,Information Symposium,3
+49,Information Symposium,4
+50,Information Symposium,5
+51,Data Quality Symposium,1
+52,Data Quality Symposium,2
+53,Data Quality Symposium,3
+54,Data Quality Symposium,4
+55,Data Quality Symposium,5
+56,Data Quality Symposium,6
+57,Data Quality Symposium,7
+58,Data Quality Symposium,8
+59,Big Data Analytics Conference,1
+60,Big Data Analytics Conference,2
+61,Big Data Analytics Conference,3
+62,Big Data Analytics Conference,4
+63,Big Data Analytics Conference,5
+64,Big Data Analytics Conference,6
+65,Big Data Analytics Conference,7
+66,Big Data Analytics Conference,8
+67,Big Data Analytics Conference,9
+68,Big Data Analytics Conference,10
+69,Data Privacy Forum,1
+70,Data Privacy Forum,2
+71,Data Privacy Forum,3
+72,Data Privacy Forum,4
+73,Data Privacy Forum,5
+74,Data Privacy Forum,6
+75,Data Privacy Forum,7
+76,Data Privacy Forum,8
+77,Data Privacy Forum,9
+78,Data Architecture Conference,1
+79,Data Architecture Conference,2
+80,Data Architecture Conference,3
+81,Data Architecture Conference,4
+82,Data Architecture Conference,5
+83,Data Architecture Conference,6
+84,Data Architecture Conference,7
+85,Data Architecture Conference,8
+86,Data Architecture Conference,9
+87,Data Architecture Conference,10
+88,Data Analytics Workshop,1
+89,Data Analytics Workshop,2
+90,Data Analytics Workshop,3
+91,Data Analytics Workshop,4
+92,Data Analytics Workshop,5
+93,Data Analytics Workshop,6
+94,Database Technologies Symposium,1
+95,Database Technologies Symposium,2
+96,Database Technologies Symposium,3
+97,Database Technologies Symposium,4
+98,Database Technologies Symposium,5
+99,Database Technologies Symposium,6
+100,Database Technologies Symposium,7
+101,Database Technologies Symposium,8
+102,Database Technologies Symposium,9
+103,Data Modeling Workshop,1
+104,Data Modeling Workshop,2
+105,Data Modeling Workshop,3
+106,Data Modeling Workshop,4
+107,Data Modeling Workshop,5
+108,Data Modeling Workshop,6
+109,Data Modeling Workshop,7
+110,Data Modeling Workshop,8
+111,Data Strategy Symposium,1
+112,Data Strategy Symposium,2
+113,Data Strategy Symposium,3
+114,Data Strategy Symposium,4
+115,Data Strategy Symposium,5
+116,Data Strategy Symposium,6
+117,Data Strategy Symposium,7
+118,Data Strategy Symposium,8
+119,Data Strategy Symposium,9
+120,Data Strategy Symposium,10
+121,Data Mining Symposium,1
+122,Data Mining Symposium,2
+123,Data Mining Symposium,3
+124,Data Mining Symposium,4
+125,Data Mining Symposium,5
+126,Data Mining Symposium,6
+127,Data Mining Symposium,7
+128,Data Mining Symposium,8
+129,Data Mining Symposium,9
+130,Database Design Summit,1
+131,Database Design Summit,2
+132,Database Design Summit,3
+133,Database Design Summit,4
+134,Database Design Summit,5
+135,Database Design Summit,6
+136,Database Design Summit,7
+137,Database Design Summit,8
+138,Data Science Summit,1
+139,Data Science Summit,2
+140,Data Science Summit,3
+141,Data Science Summit,4
+142,Data Science Summit,5
+143,Data Science Summit,6
+144,Data Science Summit,7
+145,Data Science Summit,8
+146,Data Science Summit,9
+147,Information Governance Summit,1
+148,Information Governance Summit,2
+149,Information Governance Summit,3
+150,Information Governance Summit,4
+151,Information Governance Summit,5
+152,Information Governance Summit,6
+153,Information Governance Summit,7
+154,Information Governance Summit,8
+155,Information Summit,1
+156,Information Summit,2
+157,Information Summit,3
+158,Information Summit,4
+159,Information Summit,5
+160,Information Summit,6
+161,Information Summit,7
+162,Information Summit,8
+163,Information Summit,9
+164,Information Summit,10
+165,Women in Tech Summit,1
+166,Women in Tech Summit,2
+167,Women in Tech Summit,3
+168,Women in Tech Summit,4
+169,Women in Tech Summit,5
+170,Big Data Conference,1
+171,Big Data Conference,2
+172,Big Data Conference,3
+173,Big Data Conference,4
+174,Big Data Conference,5
+175,Big Data Conference,6
+176,Big Data Conference,7
+177,Big Data Conference,8
+178,Big Data Conference,9
+179,Data Security Forum,1
+180,Data Security Forum,2
+181,Data Security Forum,3
+182,Data Security Forum,4
+183,Data Security Forum,5
+184,Data Security Forum,6
+185,Data Engineering Workshop,1
+186,Data Engineering Workshop,2
+187,Data Engineering Workshop,3
+188,Data Engineering Workshop,4
+189,Data Engineering Workshop,5
+190,Data Engineering Workshop,6
+191,Database Symposium,1
+192,Database Symposium,2
+193,Database Symposium,3
+194,Database Symposium,4
+195,Database Symposium,5
+196,Database Symposium,6
+197,Database Symposium,7
+198,Information Management Summit,1
+199,Information Management Summit,2
+200,Information Management Summit,3
+201,Information Management Summit,4
+202,Information Management Summit,5
+203,Information Management Summit,6
+204,Information Management Summit,7
+205,Information Management Summit,8
+206,Data Management Forum,1
+207,Data Management Forum,2
+208,Data Management Forum,3
+209,Data Management Forum,4
+210,Data Management Forum,5
+211,Data Management Forum,6
+212,Data Management Forum,7
+213,Data Management Forum,8
+214,Data Management Forum,9
+215,Data Management Forum,10
+216,Data Warehouse Summit,1
+217,Data Warehouse Summit,2
+218,Data Warehouse Summit,3
+219,Data Warehouse Summit,4
+220,Data Warehouse Summit,5
+221,Data Warehouse Summit,6
+222,Data Warehouse Summit,7
+223,Data Warehouse Summit,8
+224,Data Warehouse Summit,9
+225,Data Warehouse Summit,10
+226,Data Analytics Conference,1
+227,Data Analytics Conference,2
+228,Data Analytics Conference,3
+229,Data Analytics Conference,4
+230,Data Analytics Conference,5
+231,Data Analytics Conference,6
+232,Data Analytics Conference,7
+233,Database Administration Workshop,1
+234,Database Administration Workshop,2
+235,Database Administration Workshop,3
+236,Database Administration Workshop,4
+237,Database Administration Workshop,5

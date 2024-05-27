@@ -1,37 +1,57 @@
-# MongoDB Data Modeling and Querying Project
+# NoSQL Projects Repository
 
-This project demonstrates data modeling and querying using MongoDB with different approaches implemented in Python.
+## Overview
 
-## Project Structure
+This repository contains two sub-projects focused on NoSQL databases. Each sub-project demonstrates the use of different NoSQL technologies to manage and analyze data effectively. The two sub-projects included are:
 
-- **`Model1.py`**
-  - Defines the `Model1` class that interacts with MongoDB.
-  - Uses separate collections for `person` and `company`.
-  - Establishes one-to-many relationships between people and companies using `company_id`.
-  - Executes predefined queries (`query_q1`, `query_q2`, `query_q3`, `query_q4`) on the data.
+1. **Neo4j Project**: A graph database project for managing and analyzing academic papers.
+2. **MongoDB Project**: A document database project for storing and querying general data.
 
-- **`Model2.py`**
-  - Defines the `Model2` class with an alternative MongoDB interaction approach.
-  - Uses a single `person` collection where company details are embedded within each person document.
-  - Executes similar predefined queries (`query_q1`, `query_q2`, `query_q3`, `query_q4`) on the data.
+## Projects
 
-- **`Model3.py`**
-  - Defines the `Model3` class with a unique MongoDB data modeling approach.
-  - Uses a `company` collection where employee details are embedded as subdocuments within each company document.
-  - Executes predefined queries (`query_q1`, `query_q2`, `query_q3`, `query_q4`) on the data.
+### Neo4j Project
+
+This project involves building a graph database to store and analyze data on academic papers using Neo4j.
+
+For detailed information, refer to the [Neo4j Project README](Neo4j/README.md).
+
+### MongoDB Project
+
+This project focuses on using MongoDB to store and query data.
+
+For detailed information, refer to the [MongoDB Project README](MongoDB/README.md).
+
+## Installation
+
+### Steps
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/your-username/NoSQL.git
+    cd NoSQL
+    ```
+
+2. **Navigate to the Desired Project:**
+    - For Neo4j Project:
+        ```bash
+        cd Neo4j
+        ```
+    - For MongoDB Project:
+        ```bash
+        cd MongoDB
+        ```
+
+3. **Follow the Installation Instructions:**
+    Refer to the respective README files in each sub-project directory for detailed installation instructions.
 
 ## Usage
 
-1. **Setup**
-   - Ensure MongoDB is installed and running locally.
-   - Install required Python packages: `pymongo`, `Faker`.
+- **Neo4j Project:**
+    - Start Neo4j Desktop and open the project.
+    - Load the data using the provided Cypher scripts.
+    - Run queries using Neo4j Browser.
 
-2. **Running the Scripts**
-   - Execute each model script individually to generate data and perform queries.
-   - Adjust parameters (`n_people`, `n_companies`) in the `data_generator` method to vary the data volume.
-
-Example usage:
-```bash
-python Model1.py
-python Model2.py
-python Model3.py
+- **MongoDB Project:**
+    - Start MongoDB server.
+    - Import data using the provided scripts.
+    - Execute queries using MongoDB Shell or any MongoDB client.
