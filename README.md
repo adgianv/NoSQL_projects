@@ -27,8 +27,8 @@ For detailed information, refer to the [MongoDB Project README](MongoDB/README.m
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/NoSQL.git
-    cd NoSQL
+    git clone https://github.com/adgianv/NoSQL_projects
+    cd NoSQL_projects
     ```
 
 2. **Navigate to the Desired Project:**
